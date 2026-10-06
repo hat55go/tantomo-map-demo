@@ -25,6 +25,6 @@ Serve the approved, mobile-first Tantomo MAP development demo through GitHub Pag
 - Verify the deployed HTML and assets match the intended build.
 - Check mobile layout, map loading, search, store cards, and destination-only external map links.
 - Ensure review-only photos and Google API scripts cannot load, including with development query flags.
-- Retain the development notice, information date, and visible OpenStreetMap attribution.
+- Retain the development notice, information date, and visible linked GSI tile attribution.
 - Do not add analytics, paid services, new permissions, or production claims without explicit approval.
 - Never commit credentials, `.env` contents, unapproved images, internal documents, or private application data.
