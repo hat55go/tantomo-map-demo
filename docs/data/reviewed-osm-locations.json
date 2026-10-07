@@ -6,6 +6,17 @@
   "note": "OSM-derived coordinate subset only. Other merchant facts have independent sources. Older coordinate records were not re-reviewed on this date.",
   "locations": [
     {
+      "id": "official-b9a61141557f87",
+      "name": "レストランあじくら",
+      "address": "福知山市厚中町121",
+      "coordinates": {
+        "lat": 35.3062579,
+        "lng": 135.1103004
+      },
+      "sourceUrl": "https://www.openstreetmap.org/node/6984174548",
+      "verifiedAt": "2026-10-07"
+    },
+    {
       "id": "official-20a5fdada71feb",
       "name": "第一旭 福知山店",
       "address": "福知山市堀小字下高田2374-8",
@@ -120,6 +131,17 @@
         "lng": 135.2981342
       },
       "sourceUrl": "https://www.openstreetmap.org/way/662017210",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "id": "official-29cd0a1831454d",
+      "name": "和知うめはら",
+      "address": "船井郡京丹波町字升谷下子来73",
+      "coordinates": {
+        "lat": 35.2487051,
+        "lng": 135.4184168
+      },
+      "sourceUrl": "https://www.openstreetmap.org/way/545021596",
       "verifiedAt": "2026-10-07"
     },
     {
