@@ -6,7 +6,7 @@ Serve the approved, mobile-first Tantomo MAP development demo through GitHub Pag
 
 ## Stack and directories
 
-- Prebuilt React / TypeScript / Vite application, with Leaflet.
+- Prebuilt React / TypeScript / Vite application, with MapLibre GL JS and a self-contained worker.
 - `docs/`: generated deployment artifacts and `.nojekyll`; Pages source is `main:/docs`.
 - Source development and internal documentation live in a separate private repository.
 - Local run, test, lint, and build commands: not configured in this deployment repository.
@@ -25,6 +25,7 @@ Serve the approved, mobile-first Tantomo MAP development demo through GitHub Pag
 - Verify the deployed HTML and assets match the intended build.
 - Check mobile layout, map loading, search, store cards, and destination-only external map links.
 - Ensure review-only photos and Google API scripts cannot load, including with development query flags.
-- Retain the development notice, information date, and visible linked GSI tile attribution.
+- Retain the development notice, information date, and visible linked GSI experimental vector tile attribution (processed map).
+- The experimental tile service has no availability guarantee; do not replace it with a paid service without approval.
 - Do not add analytics, paid services, new permissions, or production claims without explicit approval.
 - Never commit credentials, `.env` contents, unapproved images, internal documents, or private application data.
