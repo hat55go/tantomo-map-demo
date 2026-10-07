@@ -25,7 +25,9 @@ Serve the approved, mobile-first Tantomo MAP development demo through GitHub Pag
 - Verify the deployed HTML and assets match the intended build.
 - Check mobile layout, map loading, search, store cards, and destination-only external map links.
 - Ensure review-only photos and Google API scripts cannot load, including with development query flags.
-- Retain the development notice, information date, and visible linked GSI experimental vector tile attribution (processed map).
-- The experimental tile service has no availability guarantee; do not replace it with a paid service without approval.
+- Retain the development notice, benefit information date, linked GSI pale tile attribution, and extra source credit at zoom 7–8.
+- Distinguish store/facility coordinates from approximate address-block points. Keep unresolved locations searchable without invented pins or unknown-branch navigation links.
+- Include the attributed public ODbL extract for OSM-derived store positions, but no private review caches or merchant intake data.
+- The tile service has no availability guarantee; do not replace it with a paid service without approval.
 - Do not add analytics, paid services, new permissions, or production claims without explicit approval.
 - Never commit credentials, `.env` contents, unapproved images, internal documents, or private application data.
