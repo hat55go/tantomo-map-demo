@@ -1,0 +1,189 @@
+{
+  "attribution": "© OpenStreetMap contributors",
+  "license": "https://opendatacommons.org/licenses/odbl/1-0/",
+  "source": "https://www.openstreetmap.org/copyright",
+  "reviewedAt": "2026-10-07",
+  "note": "OSM-derived coordinate subset only. Other merchant facts have independent sources. Older coordinate records were not re-reviewed on this date.",
+  "locations": [
+    {
+      "id": "official-20a5fdada71feb",
+      "name": "第一旭 福知山店",
+      "address": "福知山市堀小字下高田2374-8",
+      "coordinates": {
+        "lat": 35.2917392,
+        "lng": 135.1341332
+      },
+      "sourceUrl": "https://www.openstreetmap.org/node/6989071393",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "id": "official-d4c7bb9ed693fb",
+      "name": "京・丹波むらいち",
+      "address": "福知山市内記10-64 さんの丸1階",
+      "coordinates": {
+        "lat": 35.2974753,
+        "lng": 135.1285326
+      },
+      "sourceUrl": "https://www.openstreetmap.org/way/1117965346",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "id": "official-04cf586f938f62",
+      "name": "さんの丸カフェ",
+      "address": "福知山市内記10-64 さんの丸1階",
+      "coordinates": {
+        "lat": 35.2974753,
+        "lng": 135.1285326
+      },
+      "sourceUrl": "https://www.openstreetmap.org/way/1117965346",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "id": "official-c1ab60d2a5350e",
+      "name": "淑徳魚苑 魚福",
+      "address": "福知山市堀小字今岡6 ゆらのガーデン",
+      "coordinates": {
+        "lng": 135.1312739,
+        "lat": 35.2964655
+      },
+      "sourceUrl": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "id": "official-7f5dde9c662750",
+      "name": "村上商事株式会社 福知山中央セルフSS",
+      "address": "福知山市篠尾長ヶ坪137-3",
+      "coordinates": {
+        "lat": 35.2962549,
+        "lng": 135.1115402
+      },
+      "sourceUrl": "https://www.openstreetmap.org/node/6984187203",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "id": "official-e0f2a8981923ea",
+      "name": "村上商事株式会社 和知インターセルフSS",
+      "address": "船井郡京丹波町字升谷下子来73",
+      "coordinates": {
+        "lat": 35.2487051,
+        "lng": 135.4184168
+      },
+      "sourceUrl": "https://www.openstreetmap.org/way/545021596",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "id": "official-dc0b09f40e369f",
+      "name": "ワークショップ オオツキ 豊岡店",
+      "address": "兵庫県豊岡市正法寺字中通688",
+      "coordinates": {
+        "lng": 134.8091099,
+        "lat": 35.5394868
+      },
+      "sourceUrl": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "id": "official-ecca5be11f192e",
+      "name": "Office Duat",
+      "address": "福知山市篠尾長ヶ坪137-3",
+      "coordinates": {
+        "lat": 35.2962549,
+        "lng": 135.1115402
+      },
+      "sourceUrl": "https://www.openstreetmap.org/node/6984187203",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "id": "official-877772df6f032c",
+      "name": "福知山シネマ",
+      "address": "福知山市東中ノ町28-1",
+      "coordinates": {
+        "lng": 135.1243354,
+        "lat": 35.3020585
+      },
+      "sourceUrl": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "id": "official-de89a863692cf0",
+      "name": "ひと粒 綾部店",
+      "address": "綾部市味方町アミダジ8-2",
+      "coordinates": {
+        "lng": 135.2712363,
+        "lat": 35.3029652
+      },
+      "sourceUrl": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "id": "official-1289aaae634d3f",
+      "name": "料亭ゆう月",
+      "address": "綾部市七百石町由里16-1",
+      "coordinates": {
+        "lat": 35.3603074,
+        "lng": 135.2981342
+      },
+      "sourceUrl": "https://www.openstreetmap.org/way/662017210",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "id": "official-801ab901428d6f",
+      "name": "天橋立荘",
+      "address": "宮津市文珠赤岩584",
+      "coordinates": {
+        "lng": 135.1871463,
+        "lat": 35.5513948
+      },
+      "sourceUrl": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "id": "official-5a4b92d228c919",
+      "name": "安田自動車",
+      "address": "与謝野町字加悦146-2",
+      "coordinates": {
+        "lng": 135.0995698,
+        "lat": 35.501466
+      },
+      "sourceUrl": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "id": "official-8bc4439d4dfed0",
+      "name": "くれ竹",
+      "address": "京丹後市網野町網野2824-9",
+      "coordinates": {
+        "lat": 35.6830765,
+        "lng": 135.0292611
+      },
+      "sourceUrl": "https://www.openstreetmap.org/node/5477075837",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "id": "official-cb3cffcc7b19f9",
+      "name": "鳥取シティホテル",
+      "address": "鳥取市戒町471",
+      "coordinates": {
+        "lng": 134.2316975,
+        "lat": 35.4980874
+      },
+      "sourceUrl": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "id": "official-ee75823ded3d1d",
+      "name": "ぎんりんグループ おさかなダイニングぎんりん亭",
+      "address": "鳥取県鳥取市白兎613 道の駅神話の里白うさぎ2階",
+      "coordinates": {
+        "lat": 35.5255623,
+        "lng": 134.1143806
+      },
+      "sourceUrl": "https://www.openstreetmap.org/way/915689832",
+      "verifiedAt": "2026-10-07"
+    },
+    {
+      "id": "official-02ea896acbb07e",
+      "name": "ぎんりんグループ 天然海水いけす海陽亭",
+      "address": "鳥取県鳥取市賀露町西3丁目27-1",
+      "coordinates": {
+        "lat": 35.5347416,
+        "lng": 134.1793886
+      },
+      "sourceUrl": "https://www.openstreetmap.org/node/4440887326",
+      "verifiedAt": "2026-10-07"
+    }
+  ]
+}
