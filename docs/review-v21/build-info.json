@@ -1,0 +1,11 @@
+{
+  "version": "mobile-review-v21",
+  "builtAt": "2026-11-26T06:24:33.232Z",
+  "photos": "Original labeled UI samples only; no merchant photo candidates",
+  "location": "Disabled in this UI review",
+  "benefitsAsOf": "2026-08-26",
+  "googleApis": "disabled",
+  "sourceRevision": "c0ec124",
+  "uiRevision": "swipe-arrow-search-below-field-20261126",
+  "base": "/tantomo-map-demo/review-v21/"
+}
